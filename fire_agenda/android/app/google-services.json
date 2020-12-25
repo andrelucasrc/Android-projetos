@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170386261440",
+    "firebase_url": "https://fire-agenda.firebaseio.com",
+    "project_id": "fire-agenda",
+    "storage_bucket": "fire-agenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170386261440:android:a467e5b5bceb7c3fd43425",
+        "android_client_info": {
+          "package_name": "andre.lucas.fire_agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170386261440-8pu7cnsa7ra43ei072glaq22krc3h05o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyi-XaGQ5HDYT5zL8DD0yOEyn21Snlfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170386261440-8pu7cnsa7ra43ei072glaq22krc3h05o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

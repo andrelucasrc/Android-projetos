@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8543250017",
+    "project_id": "boxer-229e1",
+    "storage_bucket": "boxer-229e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8543250017:android:7bb9740ac6af5d8be72c20",
+        "android_client_info": {
+          "package_name": "andre.lucas.dio_bizarres_adventure_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8543250017-llhl137c8t7l61did2qa45a2obbm33a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDp4G2N_9om7RBW_JKNStVxZin0QywlVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8543250017-llhl137c8t7l61did2qa45a2obbm33a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
